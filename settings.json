@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "AstralHav3n.aternos.me",
+    "port": 44151,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
